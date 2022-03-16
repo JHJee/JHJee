@@ -1,4 +1,7 @@
 ### Hi there 👋
+\
+\
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/47475637/158545041-e679f686-dedf-4008-8eab-92d825d63aa1.png)
 
 <!--
 **JHJee/JHJee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
